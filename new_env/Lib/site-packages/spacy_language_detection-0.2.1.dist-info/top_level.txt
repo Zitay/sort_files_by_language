@@ -1,0 +1,2 @@
+spacy_language_detection
+tests

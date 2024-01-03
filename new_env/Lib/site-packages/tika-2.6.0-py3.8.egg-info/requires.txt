@@ -1,0 +1,12 @@
+setuptools
+requests
+
+[all]
+memory-profiler>=0.57.0
+pytest-benchmark>=3.2.2
+memory-profiler>=0.57.0
+pytest-benchmark>=3.2.2
+
+[tests]
+memory-profiler>=0.57.0
+pytest-benchmark>=3.2.2
